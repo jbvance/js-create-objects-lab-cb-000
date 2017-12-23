@@ -1,4 +1,6 @@
 'use strict';
-const Dog (name, breed, age) => {
-  {name, breed, age} = this;
+function Dog(name, breed, age) {
+  this.name = name
+  this.breed = breed
+  this.age = age
 }
